@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NameGenerator/static/css/main.267f1591.css",
+    "main.js": "/NameGenerator/static/js/main.7ec89579.js",
+    "static/js/453.4d61a741.chunk.js": "/NameGenerator/static/js/453.4d61a741.chunk.js",
+    "static/media/undraw_writer_q06d.png": "/NameGenerator/static/media/undraw_writer_q06d.f93f1e773b557ffae258.png",
+    "index.html": "/NameGenerator/index.html",
+    "main.267f1591.css.map": "/NameGenerator/static/css/main.267f1591.css.map",
+    "main.7ec89579.js.map": "/NameGenerator/static/js/main.7ec89579.js.map",
+    "453.4d61a741.chunk.js.map": "/NameGenerator/static/js/453.4d61a741.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.267f1591.css",
+    "static/js/main.7ec89579.js"
+  ]
+}
